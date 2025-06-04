@@ -10,7 +10,7 @@
 
 I am a passionate and dedicated artificial intelligence enthusiast pursuing my **master’s degree in artificial intelligence** at the **Technische Hochschule Würzburg-Schweinfurt (THWS)**. I have completed all my coursework except for my thesis.
 
-- **Background**: Bachelor's in Computer Science & Engineering with hands-on experience in Machine Learning, Deep Learning, Computer Vision, and NLP.
+- **Background**: Bachelor's in Computer Science & Engineering with hands-on experience in Machine Learning, Deep Learning, Computer Vision, NLP, LLMs,and generative AI.
 - **Key Strengths**: Problem-solving, Analytical Thinking, Teamwork, Presentation, and Communication.
 
 ---
