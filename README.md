@@ -33,6 +33,7 @@ I am a passionate and dedicated artificial intelligence enthusiast pursuing my *
   <img src="https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 ### **AI & ML Frameworks**
@@ -42,6 +43,7 @@ I am a passionate and dedicated artificial intelligence enthusiast pursuing my *
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/HuggingFace-%23FFD100.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
 ### **Core Areas**
@@ -50,6 +52,7 @@ I am a passionate and dedicated artificial intelligence enthusiast pursuing my *
   <img src="https://img.shields.io/badge/Deep_Learning-%23FF6F00.svg?style=for-the-badge&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/Computer_Vision-%231572B6.svg?style=for-the-badge&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/NLP-%23EA4C89.svg?style=for-the-badge&logo=nlp&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/LLMs-%237B68EE.svg?style=for-the-badge&logoColor=white" alt="Large Language Models" />
   <img src="https://img.shields.io/badge/Generative_AI-%237B68EE.svg?style=for-the-badge&logoColor=white" alt="Generative AI" />
 </p>
 
