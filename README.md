@@ -58,26 +58,6 @@ I am a passionate and dedicated artificial intelligence enthusiast pursuing my *
 
 ---
 
-## 🏆 **Certifications**
-<div>
-<h3>
-  <img align="center" height="30" src="https://tinyurl.com/34h8pau5"> 
-  Deep Learning Specialization
-</h3>
-- <strong><a href="https://coursera.org/share/2a51b5cc5f37000ee63688fb81429cdf">Certificate Link</a></strong><br>
-- Completed a professional-level specialization covering fundamental and advanced topics in AI, including CNNs, RNNs, Transformers, and cutting-edge optimization techniques. The coursework also included hands-on projects to solidify understanding of real-world AI applications.
-</div>
-<div>
-<h3>
-  Python for Data Science
-</h3>
-- <strong><a  href='https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL20CS36S1PC148585'>Certificate Link</a></strong><br>
-- Proficient in data analysis and visualization with Python libraries.
-</div>
-
----
-
-
 ## 🌐 **Connect With Me**
 
 <p>
