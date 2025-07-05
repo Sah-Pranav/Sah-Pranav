@@ -44,6 +44,7 @@ I am a passionate and dedicated artificial intelligence enthusiast pursuing my *
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/HuggingFace-%23FFD100.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-%23008CFF.svg?style=for-the-badge&logoColor=white" alt="LangGraph" />
 </p>
 
 ### **Core Areas**
