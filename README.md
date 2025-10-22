@@ -8,8 +8,9 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=600&repeat=true&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
 </h1>
+
 
 ## 🚀 About Me
 
