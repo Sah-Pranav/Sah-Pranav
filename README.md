@@ -84,15 +84,14 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 ---
 
-## 🌐 Let's Connect
-
 <p align="center">
   🌐 Let's Connect &nbsp;
   <a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
-         alt="LinkedIn" width="25" style="vertical-align:middle; fill:#0A66C2;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         alt="LinkedIn" width="25" style="vertical-align:middle;"/>
   </a>
 </p>
+
 
 ---
 
