@@ -407,3 +407,375 @@ I bring a strong **technical foundation**, practical project experience, and a g
 <div align="center">
   <i>⚡ "Building the future, one algorithm at a time" ⚡</i>
 </div>
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pranav+Kumar+Sah;AI+%26+ML+Engineer;Master's+in+Artificial+Intelligence;Building+Production-Ready+AI" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" alt="Stars"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpdHcyc2hqcjBxdjY5bHljY21oY3VhbnRyOGZ5M3lmOTg1dGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 **Master's student in Artificial Intelligence** at <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" width="80"/> Germany 🇩🇪
+
+📝 **Currently completing Master's thesis** at <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="80"/>  
+   *Evaluating Agentic AI Systems*
+
+🎯 **Mission:** Build impactful, production-ready AI solutions that solve real-world problems
+
+💼 **Background:** Computer Science & Engineering with hands-on experience across the **complete AI lifecycle**:
+- 📊 Data Preprocessing & Feature Engineering
+- 🧠 Model Training & Optimization
+- 🚀 Deployment & MLOps
+- 📈 Monitoring & Evaluation
+
+🌱 **Mindset:** Strong technical foundation + Practical project experience + Growth mindset
+
+---
+
+## 💼 What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Technical Excellence
+- ✅ Production-grade AI/ML systems
+- ✅ End-to-end pipeline development
+- ✅ Cloud-native architectures
+- ✅ Scalable & maintainable code
+- ✅ Best practices & design patterns
+
+</td>
+<td width="50%">
+
+### 🚀 Business Impact
+- ✅ Real-world problem solving
+- ✅ Rapid prototyping to production
+- ✅ Performance optimization
+- ✅ Cross-functional collaboration
+- ✅ Continuous learning & adaptation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### ⚡ Programming & Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🧰 Development, Infrastructure & APIs
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+### 🤖 AI & ML Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD100?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-008CFF?style=for-the-badge&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+</td>
+<td width="45%" valign="top">
+
+<br/>
+
+### 🧠 Core Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-00A86B?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-FF6F00?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/👁️_Computer_Vision-1572B6?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔤_Large_Language_Models-7B68EE?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_Generative_AI-9B59B6?style=for-the-badge&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝_Agentic_AI_Systems-FFB703?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Tech Animation"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [Agentic AI Evaluation Framework](https://github.com/YOUR_USERNAME/project1)
+**Tech:** Python, LangGraph, LangChain, FastAPI
+
+Comprehensive framework for evaluating multi-agent AI systems with advanced metrics, benchmarking capabilities, and real-time monitoring.
+
+**Key Features:**
+- ✅ Multi-agent orchestration
+- ✅ Performance benchmarking
+- ✅ Custom evaluation metrics
+- ✅ Real-time dashboards
+
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/project1?style=social)
+
+</td>
+<td width="50%">
+
+### 🚀 [Production ML Pipeline](https://github.com/YOUR_USERNAME/project2)
+**Tech:** PyTorch, Docker, Azure, PostgreSQL
+
+End-to-end ML pipeline with automated training, deployment, and monitoring on cloud infrastructure.
+
+**Key Features:**
+- ✅ Automated CI/CD pipeline
+- ✅ Model versioning & tracking
+- ✅ A/B testing framework
+- ✅ Scalable microservices
+
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/project2?style=social)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👁️ [Computer Vision Application](https://github.com/YOUR_USERNAME/project3)
+**Tech:** TensorFlow, OpenCV, Streamlit
+
+Real-time object detection and tracking system using state-of-the-art deep learning models with interactive web interface.
+
+**Key Features:**
+- ✅ Real-time inference
+- ✅ Multiple model support
+- ✅ Custom training pipeline
+- ✅ Interactive UI
+
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/project3?style=social)
+
+</td>
+<td width="50%">
+
+### 🧠 [LLM-Powered Chatbot](https://github.com/YOUR_USERNAME/project4)
+**Tech:** HuggingFace, LangChain, FastAPI
+
+Production-ready chatbot with RAG (Retrieval Augmented Generation) for domain-specific knowledge.
+
+**Key Features:**
+- ✅ RAG implementation
+- ✅ Vector database integration
+- ✅ Context management
+- ✅ API-first design
+
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/project4?style=social)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 💡 Key Strengths for Recruiters
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎯 Technical Depth
+**Deep expertise** in modern AI/ML stack with hands-on experience building **production systems**
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Fast Learner
+**Quick adaptation** to new technologies and frameworks with proven track record in **research & development**
+
+</td>
+<td width="33%" align="center">
+
+### 💼 Business Mindset
+Focus on **practical solutions** that deliver **measurable impact** and **ROI**
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🔧 Full-Stack AI/ML
+End-to-end capability from **data engineering** to **model deployment** and **monitoring**
+
+</td>
+<td width="33%" align="center">
+
+### 🤝 Team Player
+Experience in **collaborative environments** with strong **communication skills**
+
+</td>
+<td width="33%" align="center">
+
+### 📚 Research + Practice
+Blend of **academic rigor** from Master's program and **practical experience** from thesis work
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Master of Science - Artificial Intelligence**  
+&nbsp;&nbsp;&nbsp;&nbsp; THWS, Germany | Expected: 2025
+
+🎓 **Bachelor of Technology - Computer Science & Engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp; [Your University] | [Year]
+
+📜 **Certifications:**
+- Deep Learning Specialization (Coursera)
+- AWS Certified Machine Learning
+- Azure AI Engineer Associate
+- [Add your relevant certifications]
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
+    <img src="https://thumb.r2.moele.me/t/31300/31290216/a-0072.jpg" width="500" alt="LinkedIn QR"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" alt="Footer Text" />
+</h3>
+
+<p align="center">
+  <i>⚡ "Building the future, one algorithm at a time" ⚡</i>
+</p>
