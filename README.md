@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Master’s in Artificial Intelligence @ <strong>Technische Hochschule Würzburg-Schweinfurt</strong><br>
   📍 Würzburg, Germany <br>
-  🧠 AI | ML | LLMs | Generative AI | Agentic Systems
 </p>
 
 ---
@@ -14,8 +13,6 @@ I’m a **Master’s student in Artificial Intelligence**, currently completing 
 My mission is to build **impactful, production-ready AI solutions** that address real-world problems.
 
 With a background in **Computer Science and Engineering** and hands-on experience across the AI lifecycle — from **data preprocessing** and **model training** to **deployment** — I bring a **strong technical foundation**, **practical project experience**, and a **growth mindset**.  
-
-💼 *Actively seeking full-time opportunities in AI Engineering, Research, and Product-focused roles.*
 
 ---
 
@@ -63,41 +60,6 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavkumarsah&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumarsah&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 📚 Featured Projects
-
-- 🚀 **AI Agent Evaluation** — Thesis work on evaluating agentic AI systems  
-- 🧠 **NLP Pipeline Automation** — Modular system for end-to-end text processing  
-- 🖼️ **Computer Vision Model** — Real-time object detection & classification  
-- 🪄 **Generative AI Applications** — LLM + LangChain integrations for automation tasks  
-
-👉 *More projects in my [Repositories](https://github.com/pranavkumarsah?tab=repositories)*
-
----
-
-## 📝 Publication
-
-- 📰 **“A Novel Approach to Multi-Modal AI Systems for Real-Time Decision Making”** *(Example — replace with your actual title)*  
-  📍 Published in *[Journal/Conference Name]* — [Read here](#)
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 [Certification Name / Course] – [Platform or Institution]  
-- 🥈 [Certification Name / Course] – [Platform or Institution]  
-*(Optional section — add or remove as needed)*
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -106,7 +68,4 @@ With a background in **Computer Science and Engineering** and hands-on experienc
   </a>
 </p>
 
-<p align="center">
-📬 <strong>Open to full-time roles in AI Engineering, Research, and Product Development.</strong><br>
-✅ <em>“Great AI solutions are built at the intersection of innovation, impact, and collaboration.”</em>
-</p>
+
