@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 I’m a **Master’s student in Artificial Intelligence** at <strong>Technische Hochschule Würzburg-Schweinfurt</strong>, Germany 🇩🇪.  
-Currently, I’m completing my **Master’s thesis** at **Databricks** on *evaluating agentic AI systems*.  
+Currently, I’m completing my **Master’s thesis** at <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="100"/> on *evaluating agentic AI systems*.  
 
 My mission is to build **impactful, production-ready AI solutions** that address real-world problems.
 
