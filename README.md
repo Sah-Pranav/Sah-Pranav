@@ -7,6 +7,20 @@
 
 I’m a **Master’s student in Artificial Intelligence** at 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" 
+     style="vertical-align:middle; height:40px; width:120px;" /> , Germany 🇩🇪.  
+
+Currently, I’m completing my **Master’s thesis** at 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
+     style="vertical-align:middle; height:40px;" /> on *evaluating agentic AI systems*.  
+
+My mission is to build **impactful, production-ready AI solutions** that address real-world problems.
+
+With a background in **Computer Science and Engineering** and hands-on experience across the AI lifecycle — from **data preprocessing** and **model training** to **deployment** — I bring a **strong technical foundation**, **practical project experience**, and a **growth mindset**.
+
+## 🚀 About Me
+
+I’m a **Master’s student in Artificial Intelligence** at 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" 
      style="vertical-align:middle; height:40px;" /> , Germany 🇩🇪.  
 
 Currently, I’m completing my **Master’s thesis** at 
