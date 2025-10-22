@@ -1,33 +1,6 @@
-<p align="center">
-  <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text { 
-        font: bold 40px sans-serif; 
-        fill: black; 
-      }
-      .word { 
-        opacity: 0; 
-        transform: translateX(100px); 
-        animation: slideIn 1s forwards; 
-      }
-      .word:nth-child(1) { animation-delay: 0s; }
-      .word:nth-child(2) { animation-delay: 0.5s; }
-      .word:nth-child(3) { animation-delay: 1s; }
-      .word:nth-child(4) { animation-delay: 1.5s; }
-      .word:nth-child(5) { animation-delay: 2s; }
-      @keyframes slideIn {
-        from { opacity: 0; transform: translateX(100px); }
-        to { opacity: 1; transform: translateX(0); }
-      }
-    </style>
-    <text x="50" y="60" class="text">
-      <tspan class="word">👋</tspan>
-      <tspan class="word" dx="10">Hi,</tspan>
-      <tspan class="word" dx="10">I'm</tspan>
-      <tspan class="word" dx="10"><tspan font-weight="bold">Pranav Kumar Sah</tspan></tspan>
-    </text>
-  </svg>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
+</h1>
 
 
 <h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
