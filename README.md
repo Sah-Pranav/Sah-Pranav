@@ -1,9 +1,34 @@
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" alt="Stars"/>
+  <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { 
+        font: bold 40px sans-serif; 
+        fill: black; 
+      }
+      .word { 
+        opacity: 0; 
+        transform: translateX(100px); 
+        animation: slideIn 1s forwards; 
+      }
+      .word:nth-child(1) { animation-delay: 0s; }
+      .word:nth-child(2) { animation-delay: 0.5s; }
+      .word:nth-child(3) { animation-delay: 1s; }
+      .word:nth-child(4) { animation-delay: 1.5s; }
+      .word:nth-child(5) { animation-delay: 2s; }
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(100px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+    </style>
+    <text x="50" y="60" class="text">
+      <tspan class="word">👋</tspan>
+      <tspan class="word" dx="10">Hi,</tspan>
+      <tspan class="word" dx="10">I'm</tspan>
+      <tspan class="word" dx="10"><tspan font-weight="bold">Pranav Kumar Sah</tspan></tspan>
+    </text>
+  </svg>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
