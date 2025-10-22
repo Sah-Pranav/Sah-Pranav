@@ -7,6 +7,10 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
+</h1>
+
 ## 🚀 About Me
 
 I’m a **Master’s student in Artificial Intelligence** at <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" width="100"/> , Germany 🇩🇪.  
