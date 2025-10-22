@@ -56,6 +56,13 @@ With a background in **Computer Science and Engineering** and hands-on experienc
     <img src="https://img.shields.io/badge/HuggingFace-FFD100?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </p>
 
+  ### ☁️ Cloud & Infrastructure
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </p>
+  
   ### 🧠 Core Expertise
   <p>
     <img src="https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge"/>
@@ -66,12 +73,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
     <img src="https://img.shields.io/badge/Agentic_AI_Systems-FFB703?style=for-the-badge"/>
   </p>
 
-  ### ☁️ Cloud & Infrastructure
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  </p>
+
 </td>
 <td align="center" width="300px">
   <img src="https://thumb.r2.moele.me/t/31300/31290216/a-0072.jpg" width="280px" alt="Profile Image"/>
