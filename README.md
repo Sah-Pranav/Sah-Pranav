@@ -1,8 +1,10 @@
-# 👋 Hi, I'm **Pranav Kumar Sah**
+<h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
-🎓 Master’s in Artificial Intelligence @ **Technische Hochschule Würzburg-Schweinfurt**  
-📍 Würzburg, Germany  
-🧠 AI | ML | LLMs | Generative AI | Agentic Systems
+<p align="center">
+  🎓 Master’s in Artificial Intelligence @ <strong>Technische Hochschule Würzburg-Schweinfurt</strong><br>
+  📍 Würzburg, Germany <br>
+  🧠 AI | ML | LLMs | Generative AI | Agentic Systems
+</p>
 
 ---
 
@@ -20,43 +22,53 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 ## 🛠️ Tech Stack
 
 ### ⚡ Programming & Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Matplotlib-ffdd54?style=for-the-badge&logo=matplotlib&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffdd54?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white"/>
+</p>
 
 ### 🧰 Development & Collaboration
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
 
 ### 🤖 AI & ML Frameworks
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HuggingFace-FFD100?style=for-the-badge&logo=huggingface&logoColor=black"/> 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LangGraph-008CFF?style=for-the-badge&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD100?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-008CFF?style=for-the-badge&logoColor=white"/>
+</p>
 
 ### 🧠 Core Expertise
-<img src="https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Computer_Vision-1572B6?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/NLP-EA4C89?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/LLMs-7B68EE?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-1572B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-EA4C89?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-7B68EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavkumarsah&show_icons=true&theme=tokyonight" height="150"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumarsah&theme=tokyonight" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavkumarsah&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumarsah&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
@@ -88,9 +100,13 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 ## 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-📬 **Open to full-time roles in AI Engineering, Research, and Product Development.**  
-✅ *“Great AI solutions are built at the intersection of innovation, impact, and collaboration.”*
+<p align="center">
+📬 <strong>Open to full-time roles in AI Engineering, Research, and Product Development.</strong><br>
+✅ <em>“Great AI solutions are built at the intersection of innovation, impact, and collaboration.”</em>
+</p>
