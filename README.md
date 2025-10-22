@@ -98,7 +98,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 <table>
 <tr>
 <td align="center" width="300px">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpdHcyc2hqcjBxdjY5bHljY21oY3VhbnRyOGZ5M3lmOTg1dGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="AI Animation"/>
+  <img src="https://thumb.r2.moele.me/t/31300/31290216/a-0072.jpg" width="280px" alt="Profile Image"/>
 </td>
 <td>
   ### ⚡ Programming & Data Analysis
