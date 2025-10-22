@@ -72,6 +72,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
     <img src="https://img.shields.io/badge/LLMs-7B68EE?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Agentic_AI_Systems-FFB703?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge"/>
   </p>
 
 
