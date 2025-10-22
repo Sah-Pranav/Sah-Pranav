@@ -18,7 +18,11 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 ## 🛠️ Tech Stack <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40" align="center"/>
 
-### ⚡ Programming & Tools
+<table>
+<tr>
+<td>
+
+### ⚡ Programming & Data Analysis
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -63,6 +67,19 @@ With a background in **Computer Science and Engineering** and hands-on experienc
   <img src="https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic_AI_Systems-FFB703?style=for-the-badge"/>
 </p>
+
+
+</td>
+<td align="center" width="300px">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpdHcyc2hqcjBxdjY5bHljY21oY3VhbnRyOGZ5M3lmOTg1dGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="AI Animation"/>
+
+
+
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,13 +147,9 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 </td>
@@ -144,9 +157,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpdHcyc2hqcjBxdjY5bHljY21oY3VhbnRyOGZ5M3lmOTg1dGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="AI Animation"/>
 
-<td align="center" width="400px">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" alt="AI Logo Animation"/>
-</td>
+
 
 
 </td>
