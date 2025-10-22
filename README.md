@@ -171,7 +171,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 </td>
 <td align="center" width="300px">
 
-<img src="https://thumb.r2.moele.me/t/31300/31290216/a-0072.jpg" width="280px" alt="Profile Image"/>
+<img src="https://www.motionelements.com/stock-image-31384708-vertical-video-artificial-intelligence-ai-on-circuit-board-glowing-neon-lines-imagination?srsltid=AfmBOooLTr7rqdcvVJeqLy-hfpuQqvRiL0cdxC9GHjJyErRSIUY6EqPs" alt="Profile Image"/>
 
 </td>
 </tr>
