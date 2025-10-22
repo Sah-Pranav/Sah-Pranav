@@ -88,9 +88,10 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sah-pranav" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
+         alt="LinkedIn" width="40" style="vertical-align:middle;"/>
   </a>
 </p>
-
 
 ---
 
