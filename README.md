@@ -3,27 +3,32 @@
 </h1>
 
 
-<h2 style="text-align: center;">🚀 About Me</h2>
+<div style="text-align: center;">
+  <h2>🚀 About Me</h2>
+</div>
 
-<p>
-  I’m a <strong>Master’s student in Artificial Intelligence</strong> @ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" 
-       style="vertical-align:middle; height:40px;" /> , Germany 🇩🇪.
-</p>
+<div>
+  <p>
+    I’m a <strong>Master’s student in Artificial Intelligence</strong> @ 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" 
+         style="vertical-align:middle; height:40px;" /> , Germany 🇩🇪.
+  </p>
 
-<p>
-  Currently, I’m completing my <strong>Master’s thesis</strong> @ 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
-       style="vertical-align:middle; height:40px;" /> on <em>evaluating agentic AI systems</em>.
-</p>
+  <p>
+    Currently, I’m completing my <strong>Master’s thesis</strong> @ 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
+         style="vertical-align:middle; height:40px;" /> on <em>evaluating agentic AI systems</em>.
+  </p>
 
-<p>
-  My mission is to build <strong>impactful, production-ready AI solutions</strong> that address real-world problems.
-</p>
+  <p>
+    My mission is to build <strong>impactful, production-ready AI solutions</strong> that address real-world problems.
+  </p>
 
-<p>
-  With a background in <strong>Computer Science and Engineering</strong> and hands-on experience across the AI lifecycle — from <strong>data preprocessing</strong> and <strong>model training</strong> to <strong>deployment</strong> — I bring a <strong>strong technical foundation</strong>, <strong>practical project experience</strong>, and a <strong>growth mindset</strong>.
-</p>
+  <p>
+    With a background in <strong>Computer Science and Engineering</strong> and hands-on experience across the AI lifecycle — from <strong>data preprocessing</strong> and <strong>model training</strong> to <strong>deployment</strong> — I bring a <strong>strong technical foundation</strong>, <strong>practical project experience</strong>, and a <strong>growth mindset</strong>.
+  </p>
+</div>
+
 
 ---
 
