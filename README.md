@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
-<p align="center">
-  🧠 Thesis @ <strong>Databricks</strong> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="100"/>
-</p>
-
 ---
 
 ## 🚀 About Me
