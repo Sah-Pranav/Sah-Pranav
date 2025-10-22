@@ -2,6 +2,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&weight=700&duration=3000&pause=500&color=000000&center=true&vCenter=true&height=120&width=800&repeat=true&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
 </h1>
 
+<div align="center">
+
+<h2>🚀 <strong>About Me</strong></h2>
+
+<p>
+I’m a <strong>Master’s student in Artificial Intelligence</strong> @ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thws-logo_English.png" 
+     style="vertical-align:middle; height:45px; width:120px;" /> , Germany 🇩🇪.
+</p>
+
+<p>
+Currently, I’m completing my <strong>Master’s thesis</strong> @ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
+     style="vertical-align:middle; height:45px;" /> on <em>evaluating agentic AI systems</em>.
+</p>
+
+<p>
+My mission is to build <strong>impactful, production-ready AI solutions</strong> that address real-world problems.
+</p>
+
+<p>
+With a background in <strong>Computer Science and Engineering</strong> and hands-on experience across the AI lifecycle — from <strong>data preprocessing</strong> and <strong>model training</strong> to <strong>deployment</strong> — I bring a <strong>strong technical foundation</strong>, <strong>practical project experience</strong>, and a <strong>growth mindset</strong>.
+</p>
+
+</div>
+
 ---
 
 ## 🚀 About Me
