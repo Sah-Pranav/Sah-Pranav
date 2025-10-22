@@ -144,6 +144,11 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpdHcyc2hqcjBxdjY5bHljY21oY3VhbnRyOGZ5M3lmOTg1dGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="AI Animation"/>
 
+<td align="center" width="400px">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" alt="AI Logo Animation"/>
+</td>
+
+
 </td>
 </tr>
 </table>
