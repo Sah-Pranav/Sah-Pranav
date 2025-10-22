@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
+<h1>👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
-<p align="center">
+<p>
   🎓 Master’s in Artificial Intelligence @ <strong>Technische Hochschule Würzburg-Schweinfurt</strong><br>
   📍 Würzburg, Germany <br>
-  🧠 AI | ML | LLMs | Generative AI | Agentic Systems
 </p>
 
 ---
