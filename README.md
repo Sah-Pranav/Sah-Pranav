@@ -102,7 +102,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
 
 <p align="center">
   🧠 Thesis @ <strong>Databricks</strong> 
-  <img src="[https://www.databricks.com/wp-content/uploads/2023/04/databricks-logo.png](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="100"/>
 </p>
 
 ---
