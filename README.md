@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&weight=700&duration=3000&pause=500&color=000000&center=true&vCenter=true&height=120&width=800&repeat=true&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" alt="Hi, I'm Pranav Kumar Sah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&weight=700&duration=3000&pause=500&color=000000&center=true&vCenter=true&height=80&width=600&repeat=true&lines=%F0%9F%91%8B+Hi,+I'm+Pranav+Kumar+Sah" 
+       alt="Hi, I'm Pranav Kumar Sah" />
 </h1>
 
 ---
