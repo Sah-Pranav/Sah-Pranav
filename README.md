@@ -1,8 +1,7 @@
 <h1>👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
 <p>
-  🎓 Master’s in Artificial Intelligence @ <strong>Technische Hochschule Würzburg-Schweinfurt</strong><br>
-  📍 Würzburg, Germany <br>
+  🎓 Master’s in Artificial Intelligence @ <strong>Technische Hochschule Würzburg-Schweinfurt</strong>📍 Würzburg, Germany <br>
 </p>
 
 ---
