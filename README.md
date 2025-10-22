@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" alt="Stars"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm <strong>Pranav Kumar Sah</strong></h1>
 
 ---
@@ -411,7 +418,7 @@ I bring a strong **technical foundation**, practical project experience, and a g
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pranav+Kumar+Sah;AI+%26+ML+Engineer;Master's+in+Artificial+Intelligence;Building+Production-Ready+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pranav+Kumar+Sah" alt="Typing SVG" />
 </h1>
 
 <p align="center">
