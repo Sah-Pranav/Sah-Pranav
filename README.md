@@ -58,7 +58,7 @@ With a background in **Computer Science and Engineering** and hands-on experienc
     <img src="https://img.shields.io/badge/HuggingFace-FFD100?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </p>
 
-  ### ☁️ Cloud CI/CD & Infrastructure
+  ### ☁️ Cloud, CI/CD & Infrastructure
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
